@@ -1,2 +1,6 @@
 # sssp_serial_parallel_implements
-sssp dijkstra delta-stepping parallel
+This work implements dijkstra (priority queue optimized) and delta-stepping algorithms for SSSP problems.
+
+- source code in `code/`
+- driver in `bin/`
+- report in \report/\
