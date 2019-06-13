@@ -3,4 +3,4 @@ This work implements dijkstra (priority queue optimized) and delta-stepping algo
 
 - source code in `code/`
 - driver in `bin/`
-- report in \report/\
+- report in `report/`
